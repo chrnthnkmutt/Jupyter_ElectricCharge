@@ -1,5 +1,7 @@
 # Electric Charge Visualization on Jupyter Notebook
 
+![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fdc9f3c9a-ac9d-4d06-b551-6ddd8dfd0ebf%2F7ec55708-04da-4862-868b-dad48c913e9a%2FBlog_Banner.png?id=0874b523-2817-4264-ba69-9f21ebb10409&table=block&spaceId=dc9f3c9a-ac9d-4d06-b551-6ddd8dfd0ebf&width=2000&userId=a7f97195-14f0-4a95-aab4-84f32f973dfa&cache=v2)
+
 In this collaboration, I do need to study about Electric Field, Electric Charge, and Electric Magnetism as the prerequisite of the visualized experiment with Professor Dr. Stanislas Pierre Maximilien Grare in PHY104 (Electrical Physics Course). In meantime, we both do study on the working process of using libraries for plotting the field and dipole in Jupyter Notebook, which actually using Sci-py and Matplotlib for making the visualization of the electric field and electric charge direction.
 
 For somebody who would like to work for the visualization like above, both Google Collaborations and Visual Studio Code would be the best selection for who would like to work on. But Google Collaborations might have a better compilation than VS Code since it’s installed a lot of environment within this online IDE.
