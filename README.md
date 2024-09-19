@@ -6,7 +6,6 @@
 
 - [ Overview](#-overview)
 - [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
 - [ Getting Started](#-getting-started)
     - [ Prerequisites](#-prerequisites)
     - [ Installation](#-installation)
@@ -33,20 +32,6 @@ For somebody who would like to work for the visualization like above, both Googl
     ├── elecpotential.ipynb
     └── electrostaticdipole.ipynb
 ```
-
----
-
-##  Modules
-
-<details closed><summary>.</summary>
-
-| File | Summary |
-| --- | --- |
-| [elecpotential.ipynb](https://github.com/chrnthnkmutt/Jupyter_ElectricCharge/blob/main/elecpotential.ipynb) | <code>❯ REPLACE-ME</code> |
-| [electrostaticdipole.ipynb](https://github.com/chrnthnkmutt/Jupyter_ElectricCharge/blob/main/electrostaticdipole.ipynb) | <code>❯ REPLACE-ME</code> |
-
-</details>
-
 ---
 
 ##  Getting Started
